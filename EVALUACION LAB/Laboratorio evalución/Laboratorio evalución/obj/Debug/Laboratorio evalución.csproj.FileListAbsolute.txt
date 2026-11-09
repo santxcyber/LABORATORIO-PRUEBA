@@ -1,8 +1,0 @@
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\bin\Debug\Laboratorio evalución.exe.config
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\bin\Debug\Laboratorio evalución.exe
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\bin\Debug\Laboratorio evalución.pdb
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\obj\Debug\Laboratorio evalución.csproj.AssemblyReference.cache
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\obj\Debug\Laboratorio evalución.csproj.CoreCompileInputs.cache
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\obj\Debug\Laboratorio evalución.exe
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\obj\Debug\Laboratorio evalución.pdb
-C:\Users\UPN\Desktop\EVALUACION LAB\Laboratorio evalución\Laboratorio evalución\obj\Debug\Laboratorio evalución.exe.config
